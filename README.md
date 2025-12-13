@@ -1,7 +1,7 @@
-# 🚩 CTF Writeups & Wargame Solutions
+# 🚩 Wargame Writeups & Solutions
 
-Welcome to my CTF archive! 🕵️‍♂️
-This repository documents my journey through various Wargames and CTF challenges. It serves as a personal knowledge base and a portfolio of my cybersecurity skills.
+Welcome to my Wargame archive! 🕵️‍♂️
+This repository documents my journey through various Wargames. It serves as a personal knowledge base and a portfolio of my cybersecurity skills.
 
 ---
 
